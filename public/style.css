@@ -1,0 +1,13 @@
+img {
+    max-height: 300px;
+    max-width: 300px;
+    border: 1px solid red;
+}
+
+#preview {
+    visibility: hidden;
+}
+
+#spinner {
+    visibility: hidden;
+}
